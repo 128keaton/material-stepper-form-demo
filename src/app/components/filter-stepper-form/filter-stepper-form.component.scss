@@ -1,0 +1,9 @@
+.form-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  .mat-form-field {
+    flex: 1;
+  }
+}
